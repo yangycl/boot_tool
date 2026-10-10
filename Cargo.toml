@@ -1,0 +1,12 @@
+[package]
+name = "boot_tool"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+egui = "0.28"
+eframe = "0.28"
+rfd = "0.12"
+hadris-iso = { version = "3.0.0-rc.1" }
+hadris-fs = { version = "3.0.0-rc.1" }
+hadris-storage = { version = "3.0.0-rc.1" }
